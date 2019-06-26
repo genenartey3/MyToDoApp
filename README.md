@@ -26,12 +26,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user experience:
 
-Alternate gif link:
+Link To Gif:
 http://g.recordit.co/Ab3fyDCJqa.gif
 
-<img src='https://s3.amazonaws.com/img0.recordit.co/Ab3fyDCJqa.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1561513642&Signature=BABCuh1dP4qz0MoX%2FhI2QhrhT%2Fo%3D' title='' width='' alt='' />
 
 Video created with [Recordit](http://recordit.co/).
 
