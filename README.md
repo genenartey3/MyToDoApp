@@ -1,6 +1,6 @@
 # MyToDoApp
 Simple Todo app with add and remove functionality 
-# Project 1 - SimpleTodo App (MyToDo
+# Project 1 - SimpleTodo App (MyToDo)
 
 MyToDO is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
