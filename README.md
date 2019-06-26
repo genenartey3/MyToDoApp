@@ -31,6 +31,7 @@ Here's a walkthrough of implemented user experience:
 Link To Gif:
 http://g.recordit.co/Ab3fyDCJqa.gif
 
+<img src='./SimpleToDoApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video created with [Recordit](http://recordit.co/).
 
